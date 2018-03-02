@@ -2,7 +2,7 @@
     "name": "dieppk/log-viewer",
     "description": "Log viewer for laravel",
     "type": "library",
-    "keywords": ["laravel-admin", "log", "viewer"],
+    "keywords": ["laravel-admin", "log", "viewer", "lol"],
     "homepage": "https://github.com/laravel-admin-extensions/log-viewer",
     "license": "MIT",
     "authors": [
